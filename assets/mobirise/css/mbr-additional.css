@@ -1831,41 +1831,23 @@ body {
 .cid-qXVBABjzrz .mbr-section-title {
   text-align: center;
 }
-.cid-qYSEtvA9CS {
+.cid-qYTt3aOZHB {
   padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-qYSEtvA9CS h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qYSEtvA9CS p {
+.cid-qYTt3aOZHB .mbr-text {
   color: #767676;
-  text-align: left;
-  margin-bottom: 0;
 }
-.cid-qYSEtvA9CS .card-img {
-  width: auto;
+.cid-qYTt3aOZHB h4 {
+  text-align: center;
 }
-.cid-qYSEtvA9CS .card-img span {
-  font-size: 72px;
-  color: #707070;
+.cid-qYTt3aOZHB p {
+  text-align: center;
 }
-.cid-qYSEtvA9CS .card-box {
-  padding-left: 1rem;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-qYSEtvA9CS .card-img {
-    text-align: left;
-    padding-bottom: 0.75rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-qYSEtvA9CS .card-img span {
-    font-size: 40px !important;
-  }
+.cid-qYTt3aOZHB .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-qY3Z9uQ8gI {
   padding-top: 120px;
