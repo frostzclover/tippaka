@@ -1817,7 +1817,7 @@ body {
   stroke: rgba(206, 206, 206, 0.4);
 }
 .cid-qXVBABjzrz path {
-  stroke: #fae490;
+  stroke: #fabb90;
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-qXVBABjzrz .card {
@@ -2117,8 +2117,8 @@ body {
   background-color: #ffffff;
 }
 .cid-qZVbBhgFKZ .line {
-  background-color: #fae490;
-  color: #fae490;
+  background-color: #fabb90;
+  color: #fabb90;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -2205,13 +2205,13 @@ body {
   background: rgba(206, 206, 206, 0.4);
 }
 .cid-qXWn6X6Y8N progress::-webkit-progress-value {
-  background: #fae490;
+  background: #fabb90;
 }
 .cid-qXWn6X6Y8N progress[value]::-moz-progress-bar {
-  background: #fae490;
+  background: #fabb90;
 }
 .cid-qXWn6X6Y8N progress::-ms-fill {
-  background: #fae490;
+  background: #fabb90;
 }
 .cid-qXWn6X6Y8N .progress1 .progressbar-number:before {
   content: '70';
@@ -2270,7 +2270,7 @@ body {
   stroke: rgba(206, 206, 206, 0.4);
 }
 .cid-qXYXPGnXoD path {
-  stroke: #fae490;
+  stroke: #fabb90;
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-qXYXPGnXoD .card {
@@ -2869,8 +2869,8 @@ body {
   background-color: #232323;
 }
 .cid-qZxuJk402u .line {
-  background-color: #fae490;
-  color: #fae490;
+  background-color: #fabb90;
+  color: #fabb90;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -2913,7 +2913,7 @@ body {
   line-height: 20px;
   transition: all .2s;
   color: #000000;
-  background: #fae490;
+  background: #fabb90;
   width: 25px;
   height: 25px;
   border-radius: 50%;
