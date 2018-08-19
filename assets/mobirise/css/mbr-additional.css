@@ -1858,7 +1858,7 @@ body {
   color: #767676;
 }
 .cid-r18fUVcqhj .mbr-text P {
-  color: #9e9e9e;
+  color: #808080;
 }
 .cid-r0GzgaE2mB {
   background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
@@ -1873,7 +1873,7 @@ body {
   color: #767676;
 }
 .cid-r18fX0SfAi .mbr-text P {
-  color: #9e9e9e;
+  color: #808080;
 }
 .cid-r0CdSZyMw9 {
   background-image: url("../../../assets/images/mixing-console-installation-music-114981-5184x3456-2000x1333.jpg");
@@ -2200,6 +2200,9 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 P {
+  color: #808080;
 }
 .cid-qYa78ZNNEH .navbar {
   padding: .5rem 0;
@@ -2618,7 +2621,7 @@ body {
   color: #ffffff;
 }
 .cid-r0GEJbh1WK P {
-  color: #9e9e9e;
+  color: #808080;
 }
 .cid-qZxuJk402u {
   padding-top: 60px;
@@ -2676,7 +2679,7 @@ body {
   border-radius: 50%;
 }
 .cid-qZV8B5vLXp .mbr-text UL {
-  color: #9e9e9e;
+  color: #808080;
 }
 .cid-r0GG8DxIQ7 {
   padding-top: 75px;
@@ -2744,4 +2747,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-r0GG8DxIQ7 P {
+  color: #808080;
 }
