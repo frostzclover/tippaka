@@ -1,2 +1,3 @@
 # tippaka
-This is my first Profile website.
+This is my first website.
+This is my Onine Portfolio. 
